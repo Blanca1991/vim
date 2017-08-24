@@ -1,0 +1,12 @@
+需要安装的软件：
+jdk: installed
+xcode: installed
+command line tool: installed
+iterm: installed
+zsh: 需要安装，参考：https://zhuanlan.zhihu.com/p/19556676
+requested for command line developer tools: 需要安装，运行sudo xcode-select --install
+brew: installed
+
+
+webapp的git地址：
+http://git-ma.paic.com.cn/static-html5/webapp.git
